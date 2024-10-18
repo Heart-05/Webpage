@@ -17,6 +17,8 @@ h1 {
     font-size: 16px;
 }
 
-.styled-btn:hover {
-    background-color: #005f73;
+
+    .styled-btn {
+    background-color: #f08c00; /* Changed color in branch-2 */
+}
 }
